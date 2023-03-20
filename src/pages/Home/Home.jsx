@@ -15,7 +15,7 @@ function Home (){
 
     return ( 
         <div className={css.div}>
-            <h1>Tranding todays</h1>
+            <h1>Trending</h1>
             <MovieList movies={movies} />
         </div>
     )
